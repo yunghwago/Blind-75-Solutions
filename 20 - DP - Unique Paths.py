@@ -1,5 +1,5 @@
 class Solution:
-    def uniquePaths(self, m: int, n: int, memo = {}) -> int:
+    def uniquePaths(self, m: int, n: int, memo = {}) -> int: #how python does default values. aka set memo to {} if it does not exist yet
         """
         some notes
         1.
